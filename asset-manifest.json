@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calendarium/static/css/main.84c4dbb7.css",
+    "main.js": "/calendarium/static/js/main.6aa6c30e.js",
+    "static/js/453.87c568db.chunk.js": "/calendarium/static/js/453.87c568db.chunk.js",
+    "static/media/calendar-bg.jpeg": "/calendarium/static/media/calendar-bg.539fad6a28c3581ce477.jpeg",
+    "index.html": "/calendarium/index.html",
+    "main.84c4dbb7.css.map": "/calendarium/static/css/main.84c4dbb7.css.map",
+    "main.6aa6c30e.js.map": "/calendarium/static/js/main.6aa6c30e.js.map",
+    "453.87c568db.chunk.js.map": "/calendarium/static/js/453.87c568db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c4dbb7.css",
+    "static/js/main.6aa6c30e.js"
+  ]
+}
